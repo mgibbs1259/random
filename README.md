@@ -1,1 +1,1 @@
-Random code for random purposes
+# Random code for random purposes
